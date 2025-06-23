@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mouni001/Leetcode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
