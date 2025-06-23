@@ -21,16 +21,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
