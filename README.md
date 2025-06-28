@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/mouni001/Leetcode/tree/master/0100-same-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mouni001/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
+| [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Function
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
