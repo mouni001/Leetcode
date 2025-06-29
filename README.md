@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/mouni001/Leetcode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/mouni001/Leetcode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mouni001/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/mouni001/Leetcode/tree/master/2207-sequentially-ordinal-rank-tracker) |
+## Ordered Set
+|  |
+| ------- |
+| [2207-sequentially-ordinal-rank-tracker](https://github.com/mouni001/Leetcode/tree/master/2207-sequentially-ordinal-rank-tracker) |
 <!---LeetCode Topics End-->
