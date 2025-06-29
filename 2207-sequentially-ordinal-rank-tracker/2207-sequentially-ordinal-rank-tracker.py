@@ -24,14 +24,14 @@ class SORTracker:
         self.query_count += 1
         return result
 
-tracker = SORTracker()
-tracker.add("bradford", 2)
-tracker.add("bradford", 3)
-print(tracker.get())
-tracker.add("alps", 2)
-print(tracker.get())
-tracker.add("orland", 2)
-print(tracker.get())
+# tracker = SORTracker()
+# tracker.add("bradford", 2)
+# tracker.add("bradford", 3)
+# print(tracker.get())
+# tracker.add("alps", 2)
+# print(tracker.get())
+# tracker.add("orland", 2)
+# print(tracker.get())
 
 
         
