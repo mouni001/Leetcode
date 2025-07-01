@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
