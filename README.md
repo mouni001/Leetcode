@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mouni001/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/mouni001/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mouni001/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
+| [0560-subarray-sum-equals-k](https://github.com/mouni001/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mouni001/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
