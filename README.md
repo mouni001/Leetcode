@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mouni001/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/mouni001/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/mouni001/Leetcode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mouni001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mouni001/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mouni001/Leetcode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouni001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouni001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mouni001/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
