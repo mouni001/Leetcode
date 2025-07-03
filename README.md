@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mouni001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouni001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/mouni001/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouni001/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/mouni001/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mouni001/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouni001/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
+| [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/mouni001/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Backtracking
 |  |
