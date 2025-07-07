@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mouni001/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/mouni001/Leetcode/tree/master/0200-number-of-islands) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mouni001/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mouni001/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/mouni001/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/mouni001/Leetcode/tree/master/0322-coin-change) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mouni001/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mouni001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/mouni001/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/mouni001/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouni001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/mouni001/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mouni001/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/mouni001/Leetcode/tree/master/1212-sequential-digits) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mouni001/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
