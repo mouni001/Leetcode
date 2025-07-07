@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/mouni001/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/mouni001/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
