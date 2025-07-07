@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/mouni001/Leetcode/tree/master/1036-rotting-oranges) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/mouni001/Leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [2227-sum-of-subarray-ranges](https://github.com/mouni001/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mouni001/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mouni001/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Function
@@ -210,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mouni001/Leetcode/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/mouni001/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/mouni001/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
