@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mouni001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mouni001/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/mouni001/Leetcode/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mouni001/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/mouni001/Leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mouni001/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/mouni001/Leetcode/tree/master/0198-house-robber) |
