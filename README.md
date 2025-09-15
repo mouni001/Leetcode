@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/mouni001/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/mouni001/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mouni001/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/mouni001/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/mouni001/Leetcode/tree/master/0816-design-hashset) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mouni001/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mouni001/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mouni001/Leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/mouni001/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/mouni001/Leetcode/tree/master/0948-sort-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mouni001/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/mouni001/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/mouni001/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mouni001/Leetcode/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/mouni001/Leetcode/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
